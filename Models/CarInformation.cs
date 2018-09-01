@@ -7,5 +7,6 @@ namespace carbase.Models
 	{
 		public CarDescription Description { get; set; }
 		public IEnumerable<Registration> Registrations { get; set; }
+		public int Type { get; set; }
 	}
 }

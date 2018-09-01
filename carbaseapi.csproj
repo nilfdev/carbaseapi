@@ -103,6 +103,7 @@
     <Compile Include="Models\CarInformation.cs" />
     <Compile Include="Models\Registration.cs" />
     <Compile Include="Models\RegistrationLine.cs" />
+    <Compile Include="Purposes.cs" />
     <Compile Include="RegistrationController.cs" />
     <Compile Include="Data\CarRegistrationRepository.cs" />
     <Compile Include="Data\Interfaces\ICarRegistrationRepository.cs" />
